@@ -10,6 +10,7 @@ performance, and monthly sales trends.
 ### Tools Used;
 - Microsoft Excel for data cleaning, analysis and visualisation.
 - MySQL for querying of data.
+- Power Bi for data Visualisation.
 - Github for portfolio building.
 
 
@@ -17,3 +18,4 @@ performance, and monthly sales trends.
 EDA involved the exploring of the data using pivot tables to answer some questions about the data such as;
 1. Total Sales by product
 2. Total Sales by region and market.
+
